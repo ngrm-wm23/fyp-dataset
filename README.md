@@ -1,2 +1,2 @@
 # fyp-dataset
-Dataset for Fake News Detection FYP
+full clean version (WELFAKE +ISOT)dataset for Fake News Detection FYP
